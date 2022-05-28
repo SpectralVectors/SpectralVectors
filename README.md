@@ -1,8 +1,8 @@
 ![SpectralVectors's GitHub stats](https://github-readme-stats.vercel.app/api?username=spectralvectors&show_icons=true&theme=github_dark&bg_color=45,000000,000000,000000,000000,000000,000000,000000,000000,660000,663300,666600,006600,000066,000033,660066&border_color=4444ff&include_all_commits=True)
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/SpectralVectors)
-[![GitHub SpectralVectors](https://img.shields.io/github/followers/SpectralVectors?label=follow&style=social)](https://github.com/SpectralVectors)
-[![Youtube SpectralVectors](https://img.shields.io/youtube/channel/views/UCuvdcUeZVGV9avb5Io7gfxw?style=social)](https://www.youtube.com/channel/UCuvdcUeZVGV9avb5Io7gfxw)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCuvdcUeZVGV9avb5Io7gfxw)
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://spectral-vectors.itch.io/)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
