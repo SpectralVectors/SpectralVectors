@@ -4,8 +4,8 @@
 [![GitHub SpectralVectors](https://img.shields.io/github/followers/SpectralVectors?label=follow&style=social)](https://github.com/SpectralVectors)
 [![Youtube SpectralVectors](https://img.shields.io/youtube/channel/views/UCuvdcUeZVGV9avb5Io7gfxw?style=social)](https://www.youtube.com/channel/UCuvdcUeZVGV9avb5Io7gfxw)
 
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
