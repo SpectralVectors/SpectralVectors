@@ -1,5 +1,8 @@
 # Spectral Vectors
 ![SpectralVectors's GitHub stats](https://github-readme-stats.vercel.app/api?username=spectralvectors&show_icons=true&theme=github_dark&bg_color=45,000000,000000,000000,000000,000000,000000,000000,000000,660000,663300,666600,006600,000066,000033,660066&border_color=4444ff&include_all_commits=True)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spectralvectors&theme=github_dark&bg_color=45,000000,000000,000000,000000,000000,000000,000000,000000,660000,663300,666600,006600,000066,000033,660066&border_color=4444ff)
+
+?username=spectralvectors&theme=github_dark&bg_color=45,000000,000000,000000,000000,000000,000000,000000,000000,660000,663300,666600,006600,000066,000033,660066&border_color=4444ff
 
 ## Follow Me
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/SpectralVectors)
