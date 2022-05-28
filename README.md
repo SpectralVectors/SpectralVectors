@@ -20,5 +20,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spectralvectors&repo=rightmousenavigation&theme=github_dark&bg_color=45,000000,000000,000000,000000,000000,000000,000000,000000,660000,663300,666600,006600,000066,000033,660066&border_color=4444ff)](https://github.com/spectralvectors/rightmousenavigation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spectralvectors&repo=mindmapper&theme=github_dark&bg_color=45,000000,000000,000000,000000,000000,000000,000000,000000,660000,663300,666600,006600,000066,000033,660066&border_color=4444ff)](https://github.com/spectralvectors/mindmapper)
 
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spectralvectors&repo=transmat&theme=github_dark&bg_color=45,000000,000000,000000,000000,000000,000000,000000,000000,660000,663300,666600,006600,000066,000033,660066&border_color=4444ff)](https://github.com/spectralvectors/transmat)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spectralvectors&repo=ghibligenerator&theme=github_dark&bg_color=45,000000,000000,000000,000000,000000,000000,000000,000000,660000,663300,666600,006600,000066,000033,660066&border_color=4444ff)](https://github.com/spectralvectors/ghibligenerator)
