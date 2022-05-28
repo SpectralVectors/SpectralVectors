@@ -2,7 +2,6 @@
 
 [![Twitter: SpectralVectors](https://img.shields.io/twitter/follow/SpectralVectors?style=social)](https://twitter.com/SpectralVectors)
 [![GitHub SpectralVectors](https://img.shields.io/github/followers/SpectralVectors?label=follow&style=social)](https://github.com/SpectralVectors)
-![](https://visitor-badge.glitch.me/badge?page_id=SpectralVectors.SpectralVectors)
 
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
