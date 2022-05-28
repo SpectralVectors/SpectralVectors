@@ -16,7 +16,7 @@
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/spectralvectors)
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/SpectralVectors)
 
-## Popular Repos
+## Some of My Repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spectralvectors&repo=rightmousenavigation&theme=github_dark&bg_color=45,000000,000000,000000,000000,000000,000000,000000,000000,660000,663300,666600,006600,000066,000033,660066&border_color=4444ff)](https://github.com/spectralvectors/rightmousenavigation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spectralvectors&repo=mindmapper&theme=github_dark&bg_color=45,000000,000000,000000,000000,000000,000000,000000,000000,660000,663300,666600,006600,000066,000033,660066&border_color=4444ff)](https://github.com/spectralvectors/mindmapper)
 
