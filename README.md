@@ -1,4 +1,26 @@
 # Spectral Vectors
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1000" height="500">
+  <rect x="0" y="0" width="120" height="30">
+    <animate attributeName="fill" attributeType="XML" begin="0s" dur="5s" values="red;orange;yellow;green;blue;purple;red" repeatCount="indefinite"></animate>
+  </rect>
+  <rect x="120" y="0" width="120" height="30">
+    <animate attributeName="fill" attributeType="XML" begin="0s" dur="5s" values="orange;yellow;green;blue;purple;red;orange" repeatCount="indefinite"></animate>
+  </rect>
+  <rect x="240" y="0" width="120" height="30">
+    <animate attributeName="fill" attributeType="XML" begin="0s" dur="5s" values="yellow;green;blue;purple;red;orange;yellow" repeatCount="indefinite"></animate>
+  </rect>
+  <rect x="360" y="0" width="120" height="30">
+    <animate attributeName="fill" attributeType="XML" begin="0s" dur="5s" values="green;blue;purple;red;orange;yellow;green" repeatCount="indefinite"></animate>
+  </rect>
+  <rect x="480" y="0" width="120" height="30">
+    <animate attributeName="fill" attributeType="XML" begin="0s" dur="5s" values="blue;purple;red;orange;yellow;green;blue" repeatCount="indefinite"></animate>
+  </rect>
+  <rect x="600" y="0" width="120" height="30">
+    <animate attributeName="fill" attributeType="XML" begin="0s" dur="5s" values="purple;red;orange;yellow;green;blue;purple" repeatCount="indefinite"></animate>
+  </rect>
+</svg>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=spectralvectors&show_icons=true&theme=github_dark&bg_color=45,000000,000000,000000,000000,000000,000000,000000,000000,660000,663300,666600,006600,000066,000033,660066&border_color=4444ff&include_all_commits=True)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spectralvectors&theme=github_dark&bg_color=45,000000,000000,000000,000000,000000,000000,000000,000000,660000,663300,666600,006600,000066,000033,660066&border_color=4444ff)
 
