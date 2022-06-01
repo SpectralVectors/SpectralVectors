@@ -3,7 +3,19 @@ I write addons for Blender using Python.
 
 I love free and open-source software, so everything I make is free and open.
 
-I'm interested in animation, music, NPR-toon-anime rendering, UX design, CAD/CAM/CNC, game design, and lowering barriers to coding via tutorials, walkthroughs, commented code and plain language variable names.
+I'm interested in: 
+- animation 
+- music
+- NPR-toon-anime rendering
+- UX design
+- CAD/CAM/CNC
+- game design
+ 
+ And lowering barriers to coding via: 
+ - tutorials
+ - walkthroughs
+ - commented code
+ - plain language variable names
 
 Follow me on Github, Star my Repositories, Support me via Patreon or Ko-fi, links are below!
 
