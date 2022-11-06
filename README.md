@@ -24,7 +24,7 @@ I'm interested in:
 ![](https://komarev.com/ghpvc/?username=spectralvectors&style=for-the-badge)
 
 ## Follow Me
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/SpectralVectors)
+[![Mastodon](https://img.shields.io/badge/Mastodon-%231DA1F2.svg?style=for-the-badge&logo=Mastodon&logoColor=white)](https://mastodon.art/@spectralvectors)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCuvdcUeZVGV9avb5Io7gfxw)
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://spectral-vectors.itch.io/)
 
