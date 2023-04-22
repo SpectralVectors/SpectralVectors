@@ -44,7 +44,7 @@ I'm interested in:
 
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/SpectralVectors)
 
-## Some of My Repos
+## Blender Addons
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spectralvectors&repo=rightmousenavigation&theme=github_dark&bg_color=45,000000,000000,000000,000000,000000,000000,000000,000000,660000,663300,666600,006600,000066,000033,660066&border_color=4444ff)](https://github.com/spectralvectors/rightmousenavigation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spectralvectors&repo=mindmapper&theme=github_dark&bg_color=45,000000,000000,000000,000000,000000,000000,000000,000000,660000,663300,666600,006600,000066,000033,660066&border_color=4444ff)](https://github.com/spectralvectors/mindmapper)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spectralvectors&repo=transmat&theme=github_dark&bg_color=45,000000,000000,000000,000000,000000,000000,000000,000000,660000,663300,666600,006600,000066,000033,660066&border_color=4444ff)](https://github.com/spectralvectors/transmat)
@@ -53,3 +53,24 @@ I'm interested in:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spectralvectors&repo=viewportquicktheme&theme=github_dark&bg_color=45,000000,000000,000000,000000,000000,000000,000000,000000,660000,663300,666600,006600,000066,000033,660066&border_color=4444ff)](https://github.com/spectralvectors/viewportquicktheme)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spectralvectors&repo=popdrawers&theme=github_dark&bg_color=45,000000,000000,000000,000000,000000,000000,000000,000000,660000,663300,666600,006600,000066,000033,660066&border_color=4444ff)](https://github.com/spectralvectors/popdrawers)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spectralvectors&repo=ghibligenerator&theme=github_dark&bg_color=45,000000,000000,000000,000000,000000,000000,000000,000000,660000,663300,666600,006600,000066,000033,660066&border_color=4444ff)](https://github.com/spectralvectors/ghibligenerator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spectralvectors&repo=ghibligenerator&theme=github_dark&bg_color=45,000000,000000,000000,000000,000000,000000,000000,000000,660000,663300,666600,006600,000066,000033,660066&border_color=4444ff)](https://github.com/spectralvectors/BlenderSynthSFX)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spectralvectors&repo=ghibligenerator&theme=github_dark&bg_color=45,000000,000000,000000,000000,000000,000000,000000,000000,660000,663300,666600,006600,000066,000033,660066&border_color=4444ff)](https://github.com/spectralvectors/CommentBox)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spectralvectors&repo=ghibligenerator&theme=github_dark&bg_color=45,000000,000000,000000,000000,000000,000000,000000,000000,660000,663300,666600,006600,000066,000033,660066&border_color=4444ff)](https://github.com/spectralvectors/VoiceCommander)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spectralvectors&repo=ghibligenerator&theme=github_dark&bg_color=45,000000,000000,000000,000000,000000,000000,000000,000000,660000,663300,666600,006600,000066,000033,660066&border_color=4444ff)](https://github.com/spectralvectors/PythonPackager)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spectralvectors&repo=ghibligenerator&theme=github_dark&bg_color=45,000000,000000,000000,000000,000000,000000,000000,000000,660000,663300,666600,006600,000066,000033,660066&border_color=4444ff)](https://github.com/spectralvectors/GrabAddons)
+
+## Blender Advanced Addon GUI
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spectralvectors&repo=ghibligenerator&theme=github_dark&bg_color=45,000000,000000,000000,000000,000000,000000,000000,000000,660000,663300,666600,006600,000066,000033,660066&border_color=4444ff)](https://github.com/spectralvectors/BpySide6)
+
+## Blender Hardware
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spectralvectors&repo=ghibligenerator&theme=github_dark&bg_color=45,000000,000000,000000,000000,000000,000000,000000,000000,660000,663300,666600,006600,000066,000033,660066&border_color=4444ff)](https://github.com/spectralvectors/BlenderMacroBoard)
+
+## For Blender Python Beginners
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spectralvectors&repo=ghibligenerator&theme=github_dark&bg_color=45,000000,000000,000000,000000,000000,000000,000000,000000,660000,663300,666600,006600,000066,000033,660066&border_color=4444ff)](https://github.com/spectralvectors/BlenderPythonShorts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spectralvectors&repo=ghibligenerator&theme=github_dark&bg_color=45,000000,000000,000000,000000,000000,000000,000000,000000,660000,663300,666600,006600,000066,000033,660066&border_color=4444ff)](https://github.com/spectralvectors/ToonUp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spectralvectors&repo=ghibligenerator&theme=github_dark&bg_color=45,000000,000000,000000,000000,000000,000000,000000,000000,660000,663300,666600,006600,000066,000033,660066&border_color=4444ff)](https://github.com/spectralvectors/ObjectInspector)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spectralvectors&repo=ghibligenerator&theme=github_dark&bg_color=45,000000,000000,000000,000000,000000,000000,000000,000000,660000,663300,666600,006600,000066,000033,660066&border_color=4444ff)](https://github.com/spectralvectors/CustomObjects)
+
+## Blender App Templates
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spectralvectors&repo=rightmousenavigation&theme=github_dark&bg_color=45,000000,000000,000000,000000,000000,000000,000000,000000,660000,663300,666600,006600,000066,000033,660066&border_color=4444ff)](https://github.com/spectralvectors/Blunder)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spectralvectors&repo=rightmousenavigation&theme=github_dark&bg_color=45,000000,000000,000000,000000,000000,000000,000000,000000,660000,663300,666600,006600,000066,000033,660066&border_color=4444ff)](https://github.com/spectralvectors/blui)
